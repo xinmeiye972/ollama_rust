@@ -1,1 +1,1 @@
-# ollama_rust
+# ollama rust
